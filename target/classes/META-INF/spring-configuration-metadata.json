@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "twilio",
+      "type": "com.exampletwilio.demotwilio.config.TwilioConfiguration",
+      "sourceType": "com.exampletwilio.demotwilio.config.TwilioConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "twilio.account-sid",
+      "type": "java.lang.String",
+      "sourceType": "com.exampletwilio.demotwilio.config.TwilioConfiguration"
+    },
+    {
+      "name": "twilio.auth-token",
+      "type": "java.lang.String",
+      "sourceType": "com.exampletwilio.demotwilio.config.TwilioConfiguration"
+    },
+    {
+      "name": "twilio.trial-number",
+      "type": "java.lang.String",
+      "sourceType": "com.exampletwilio.demotwilio.config.TwilioConfiguration"
+    }
+  ],
+  "hints": []
+}
